@@ -1,2 +1,2 @@
-# Brainfuck-to-C-Translator
-Converts brainfuck to C code. Created for a CodeWars challenge.
+# BF-to-C-Translator
+Converts BF code to C code. Created for a CodeWars challenge.
